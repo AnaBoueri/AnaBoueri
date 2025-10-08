@@ -3,6 +3,7 @@
 </div>
 
 ## Hello There 
+Estudante de Análise e Desenvolvimento de Sistemas e ilustradora
 
  <div>
    <a href="https://github.com/AnaBoueri">
